@@ -1,8 +1,9 @@
-### Hi there, I'm Vi! 👋
+### 
+<h1>Hi there, I'm Vi! 👋</h1>
 
-Frontend developer specialised in technologies from the React ecosystem (React.JS and React.Native)
+<strong/>Frontend developer specialised in React (React.JS and React.Native)</strong>
 
-I'm obsessed with writing "dev-friendly" code.
+Highly team-oriented, I'm obsessed with writing clean code that is "dev-friendly" .
 
 React, Typescript, Apollo, Node.JS, GraphQL, Testing
 
