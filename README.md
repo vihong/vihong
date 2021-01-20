@@ -2,7 +2,7 @@
 
 Frontend developer specialised in technologies from the React ecosystem (React.JS and React.Native)
 
-I'm obsessed with "user-and-dev-friendly code".
+I'm obsessed with writing "dev-friendly" code.
 
 React, Typescript, Apollo, Node.JS, GraphQL, Testing
 
