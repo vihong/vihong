@@ -1,10 +1,11 @@
 ### Hi there, I'm Vi! 👋
 
-Frontend developer enthused about the React ecosystem (React.JS and React.Native)
+Frontend developer specialised in technologies from the React ecosystem (React.JS and React.Native)
+
+I'm obsessed with "user-and-dev-friendly code".
 
 React, Typescript, Apollo, Node.JS, GraphQL, Testing
 
-I'm obsessed with clean code, best pratices, coffee and smash bros.
 
 <!--
 **vihong/vihong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
