@@ -3,7 +3,7 @@
 
 <strong/>Frontend developer specialised in React (React.JS and React.Native)</strong>
 
-Highly team-oriented, I'm obsessed with writing clean code that is "dev-friendly" .
+Highly team-oriented, I'm obsessed with writing clean and "dev-friendly" code .
 
 React, Typescript, Apollo, Node.JS, GraphQL, Testing
 
