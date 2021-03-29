@@ -5,7 +5,8 @@
 
 Highly team-oriented, I'm obsessed with writing clean and "dev-friendly" code .
 
-React, Typescript, Apollo, Node.JS, GraphQL, Testing
+React, Typescript, Apollo
+Node.JS, GraphQL, SERVERLESS
 
 
 <!--
