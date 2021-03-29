@@ -1,7 +1,7 @@
 ### 
 <h1>Hi there, I'm Vi! 👋</h1>
 
-<strong/>Frontend developer with a "strong focus on REACT" (React.JS and React.Native)</strong>
+<strong/>Frontend developer (React.JS and React.Native)</strong>
 
 Highly team-oriented, I'm obsessed with writing clean and "dev-friendly" code .
 
