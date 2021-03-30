@@ -1,7 +1,7 @@
 ### 
 <h1>⚡️ Fullstack Developer : React (Native and JS) & Node.JS</h1>
 
-<h3/>👇 Check out my latest FULLSTACK project GENTED using : </h3>
+<h3/>👇 Check out my latest FULLSTACK project "GENTED" using : </h3>
 <ul>
   <li>FRONTEND : React Native, Typescript, useContext, Apollo 3</li>
   <li>BACKEND (Serverless) : Node.JS, Typescript, GraphQL, Yoga, Prisma</li>
