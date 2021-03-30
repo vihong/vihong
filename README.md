@@ -4,11 +4,13 @@
 
 ![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)
 
-<h3>👆  Check out my latest FULLSTACK MOBILE project "GENTED" using :</h3>
+<h3>👆  Check out my latest FULLSTACK MOBILE project <a href="https://github.com/vihong/gented">GENTED<a> using :</h3>
 <ul>
   <li>FRONTEND : React Native, Typescript, useContext, Apollo 3</li>
   <li>BACKEND (Serverless) : Node.JS, Typescript, GraphQL, Yoga, Prisma</li>
 </ul>
+
+
 
 <!--
 **vihong/vihong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
