@@ -1,12 +1,12 @@
 ### 
-<h1>Hi there, I'm Vi! 👋</h1>
+<h1>👇 Check out my latest mobile project <a href="https://github.com/vihong/gented">GENTED<a> using :</h1>
+<ul>
+  <li>FRONTEND: React Native, Typescript, useContext, Apollo 3</li>
+  <li>BACKEND (Serverless): Node.js, Typescript, GraphQL, Yoga, Prisma</li>
+</ul>
 
-<strong/>Fullstack developer (React.JS and React.Native | Node.JS)</strong>
+![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)
 
-Highly team-oriented, I'm obsessed with writing clean and "dev-friendly" code .
-
-React, Typescript, Apollo
-Node.JS, GraphQL, SERVERLESS
 
 
 <!--
