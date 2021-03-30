@@ -4,9 +4,11 @@
 
 ![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)
 
-👆  Check out my latest FULLSTACK project "GENTED" using :
-FRONTEND : React Native, Typescript, useContext, Apollo 3
-BACKEND (Serverless) : Node.JS, Typescript, GraphQL, Yoga, Prisma
+<h2>👆  Check out my latest FULLSTACK project "GENTED" using :</h2>
+<ul>
+  <li>FRONTEND : React Native, Typescript, useContext, Apollo 3</li>
+  <li>BACKEND (Serverless) : Node.JS, Typescript, GraphQL, Yoga, Prisma</li>
+</ul>
 
 <!--
 **vihong/vihong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
