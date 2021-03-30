@@ -3,8 +3,6 @@
 <ul>
   <li>FRONTEND: React Native, Typescript, useContext, Apollo 3</li>
   <li>BACKEND (Serverless): Node.JS, Typescript, GraphQL, Yoga, Prisma</li>
-    <li>TESTING: Jest</li>
-
 </ul>
 
 ![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)
