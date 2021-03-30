@@ -3,8 +3,8 @@
 
 <h3/>👇 Check out my latest FULLSTACK project GENTED using : </h3>
 <ul>
-  <li>FRONTEND (MOBILE) : React Native, Typescript, useContext, Apollo 3</li>
-  <li>BACKEND (SERVERLESS) : Node.JS, Typescript, GraphQL, Yoga</li>
+  <li>FRONTEND : React Native, Typescript, useContext, Apollo 3</li>
+  <li>BACKEND (Serverless) : Node.JS, Typescript, GraphQL, Yoga, Prisma</li>
 </ul>
 
 
