@@ -4,7 +4,7 @@
 
 ![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)
 
-<h2>👆  Check out my latest FULLSTACK project "GENTED" using :</h2>
+<h3>👆  Check out my latest FULLSTACK project "GENTED" using :</h3>
 <ul>
   <li>FRONTEND : React Native, Typescript, useContext, Apollo 3</li>
   <li>BACKEND (Serverless) : Node.JS, Typescript, GraphQL, Yoga, Prisma</li>
