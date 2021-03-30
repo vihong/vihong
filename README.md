@@ -1,13 +1,19 @@
 ### 
-<h1>Hi there, I'm Vi! 👋</h1>
+<h1>⚡️ Fullstack Developer : React (Native and JS) & Node.JS</h1>
 
-<strong/>Fullstack developer (React.JS and React.Native | Node.JS)</strong>
+<strong/>Highly team-oriented, I'm obsessed with writing clean and "dev-friendly" code .</strong>
 
-Highly team-oriented, I'm obsessed with writing clean and "dev-friendly" code .
 
-React, Typescript, Apollo
-Node.JS, GraphQL, SERVERLESS
 
+![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)
+
+👆 Check out my latest FULLSTACK project GENTED using : 
+<ul>
+  <li>FRONTEND (MOBILE) : React Native, Typescript, useContext, Apollo 3</li>
+  <li>BACKEND (SERVERLESS) : Node.JS, Typescript, GraphQL, Yoga</li>
+</ul>
+
+👇
 
 <!--
 **vihong/vihong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
