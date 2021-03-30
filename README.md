@@ -1,8 +1,10 @@
 ### 
 <h1>👇 Check out my latest mobile project <a href="https://github.com/vihong/gented">GENTED<a> using :</h1>
 <ul>
-  <li>FRONTEND : React Native, Typescript, useContext, Apollo 3</li>
-  <li>BACKEND (Serverless) : Node.JS, Typescript, GraphQL, Yoga, Prisma</li>
+  <li>FRONTEND: React Native, Typescript, useContext, Apollo 3</li>
+  <li>BACKEND (Serverless): Node.JS, Typescript, GraphQL, Yoga, Prisma</li>
+    <li>TESTING: Jest</li>
+
 </ul>
 
 ![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)
