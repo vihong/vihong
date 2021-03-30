@@ -5,7 +5,7 @@
   <li>BACKEND (Serverless): Node.js, Typescript, GraphQL, Yoga, Prisma</li>
 </ul>
 
-![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)
+<a href="https://github.com/vihong/gented">![alt text](https://raw.githubusercontent.com/vihong/vihong/main/previewGentedMobilesOnly.png)<a>
 
 
 
