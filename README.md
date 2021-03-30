@@ -1,7 +1,7 @@
 ### 
 <h1>Hi there, I'm Vi! 👋</h1>
 
-<strong/>Frontend developer (React.JS and React.Native)</strong>
+<strong/>Fullstack developer (React.JS and React.Native | Node.JS)</strong>
 
 Highly team-oriented, I'm obsessed with writing clean and "dev-friendly" code .
 
