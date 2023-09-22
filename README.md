@@ -3,6 +3,7 @@
 <ul>
   <li>FRONTEND: React Native, Typescript, Apollo, Styled-Components</li>
   <li>BACKEND (Serverless): Node.js, Typescript, GraphQL, Yoga, Prisma</li>
+  <li>MANAGEMENT : Trello, Agile (SCRUM), Clean Code</li>
 </ul>
 
 <br/>
