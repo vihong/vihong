@@ -1,5 +1,5 @@
 ### 
-<h1>👇 Check out my latest mobile project <a href="https://github.com/vihong/gented">GENTED<a> using :</h1>
+<h1>👇 Check out <a href="https://github.com/vihong/gented">GENTED<a>, my latest mobile app using :</h1>
 <ul>
   <li>FRONTEND: React Native, Typescript, Apollo, Styled-Components</li>
   <li>BACKEND (Serverless): Node.js, Typescript, GraphQL, Yoga, Prisma</li>
